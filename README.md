@@ -18,7 +18,7 @@ Before running the project, ensure the following libraries are installed:
 -Scikit-learn  
 
 ## Setup Instructions:
-'''bash
+~~~ bash
 ### Clone the repository:
 git clone https://github.com/your-username/handwritten-character-recognition.git
 cd handwritten-character-recognition
@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ### Ensure the datasets (mnist and A_Z Handwritten Data.csv) are available in the specified directory.
 ### Run the notebook using Jupyter:
 jupyter notebook handwritten_character_recognition.ipynb
+~~~
 
 ## Usage
 -Load the datasets and preprocess them as outlined in the notebook.  
